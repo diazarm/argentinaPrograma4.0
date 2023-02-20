@@ -15,17 +15,17 @@
 
 .ppt{
     background-color: #9b9b9b;
-    background-image:url(/assets/piedrapt.jpg) ;
+    background-image:url(assets/piedrapt.jpg) ;
     background-position: center 160px;
     background-repeat: no-repeat;
 }
 
 footer {
     background-color: black;
-    position: absolute;
+    position:fixed;
     bottom: 0;
     width: 100%;
-    height: 60px;
+    height: 50px;
     color: white;
     text-align: center;
   }
